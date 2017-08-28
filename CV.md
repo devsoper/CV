@@ -198,6 +198,10 @@ Service Appointments Fulfilled
 
 Steering Committee Member, Coalition of Open Access Policy Institutions (COAPI) (2016-2017)
 
+Islandora Release Teams:
+* Islandora 7.x-1.9 documentation
+* Islandora 7.x-1.8 testing
+
 Co-Chair, Florida State University Faculty Senate Scholarly Communications Task Force (2015-2016)
 
 Co-Chair, University of British Columbia Library Copyright Advisory Group (2014)
