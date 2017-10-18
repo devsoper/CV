@@ -67,13 +67,14 @@ Research & Scholarship
 ----
 **Book chapter &#x007C; Expediting OER on campus: A multifaceted approach.** Co-authored with Lindsey Wharton & Jeff Phillips. Forthcoming chapter in *The Evolution of Affordable Content Efforts in the Higher Education Environment*, edited by Kirsti Jensen and Shane Nackerud. [http://open.lib.umn.edu/affordablecontent/](http://open.lib.umn.edu/affordablecontent/)
 
-**Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips. Forthcoming presentation at the 14th Annual Open Education Conference, Anaheim, CA.
+**Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips at the 14th Annual Open Education Conference, Anaheim, CA. [Slides available here](http://bit.ly/2yd0gVv).
 
 **Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article under revision for resubmission to *Educational Researcher*.
 
 **Book review &#x007C; Open Access and the Future of Scholarly Communication: Implementation.** Review submitted for publication in *Technical Services Quarterly*.
 
-**Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September issue of *College & Research Libraries News*.
+**Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September 2017 issue of *College & Research Libraries News*.
+[https://doi.org/10.5860/crln.78.8.432](https://doi.org/10.5860/crln.78.8.432)
 
 **Preprint &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
 
