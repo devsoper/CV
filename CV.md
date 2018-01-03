@@ -76,7 +76,7 @@ Research & Scholarship
 **Article &#x007C; On passing an open access policy at Florida State University: From outreach to implementation.** Scholarly Communication Column in September 2017 issue of *College & Research Libraries News*.
 [https://doi.org/10.5860/crln.78.8.432](https://doi.org/10.5860/crln.78.8.432)
 
-**Preprint &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. [https://dx.doi.org/10.17605/OSF.IO/T7HFU](https://dx.doi.org/10.17605/OSF.IO/T7HFU)
+**Article &#x007C; De-centering and recentering digital scholarship: A manifesto.** Co-authored with Carolyn Moritz, Rachel Smart, Aaron Retteen, Matthew Hunter, Sarah Stanley, & Micah Vandegrift. *Journal of New Librarianship 2*(2) [http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto](http://www.newlibs.org/article/3138-de-centering-and-recentering-digital-scholarship-a-manifesto)
 
 **Training series &#x007C; Know Your Copyrights!** Planned and delivered with Rory Grennan, Aaron Retteen, & Mackenzie Lightfoot. [Copyright workshop series](https://www.lib.fsu.edu/workshops/know-your-copyrights) for local library staff, based on materials from Kyle K. Courtney’s [Copyright Workshops at Tulane University](http://libguides.tulane.edu/copyrightworkshop/materials).
 * Fair Use: Past, Present, and Future of a Critical Right - [slides](https://docs.google.com/presentation/d/14Y64MwTGYls6ZoaVw4gdHCh_fUfzuPiXJR4eGyNBA3o/edit?usp=sharing) and [recording](https://www.youtube.com/watch?v=_8uCOXIgzvU)
