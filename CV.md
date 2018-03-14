@@ -72,6 +72,9 @@ Led planning team for one-day symposium on OER and open pedagogy, featuring a ke
 
 **Panel presentation &#x007C; FSU Libraries Digital Publishing Colloquium.** Co-presented with Cheryl Ball, Renaine Julian, Ann Rowson Love, Sarah Everly, and Roxann Mouratidis. Colloquium [website](https://goo.gl/forms/6lDRPo8nFY9nD9wJ2) and [my slides](https://docs.google.com/presentation/d/1EpcjLo4VXMzqLNOT3YfucYEghZM4AIbQ1paiGq11xTk/edit?usp=sharing)
 
+**Research study &#x007C; Assessing faculty and student readiness for textbook affordability initiatives at FSU.**  Working with Dr. Marcia Mardis (co-PI) and two [Undergraduate Research Opportunity](https://cre.fsu.edu/programs/urop-undergraduate-research-opportunity-program) students, conducted literature review, developed survey instruments (4) and semi-structured interview script, and obtained IRB approval. Data collection and analysis ongoing. [OSF project instance](https://osf.io/p2a3m/)
+
+**Research study &#x007C; Assessing the publishing needs of faculty editors.** Working with Matt Hunter and Liz Dunne, conducted literature review, developed survey instrument, and obtained IRB approval. Data collection and analysis ongoing. 
 
 2017
 ----
@@ -85,6 +88,8 @@ Led planning team for one-day symposium on OER and open pedagogy, featuring a ke
 * [On sustaining and OER initiative](http://bit.ly/2zQZo6L)
 
 **Conference presentation &#x007C; Doubling down: Bootstrapping an OER program through faculty- and student-focused initiatives.** Co-presented with Lindsey Wharton & Jeff Phillips at the 14th Annual Open Education Conference, Anaheim, CA. [Slides available here](http://bit.ly/2yd0gVv).
+
+**Webinar &#x007C; Islandora Scholar and the landscape of open source options.** Co-presented with Bryan Brown. [Webinar information](https://www.lyrasis.org/content/Pages/Event-Details.aspx?Eid=1F99AFB8-AD89-E711-80E1-00155D73CF16) and [slides](https://docs.google.com/presentation/d/1-AkI1-bT7bVffiKbhT8tQhZziu8Omck7H7KPdl_PV9w/edit?usp=sharing).
 
 **Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article revised and resubmitted to *Educational Researcher*.
 
