@@ -62,6 +62,13 @@ Research & Scholarship
 ----
 **Article &#x007C; Changing the default to support open access to education research.** Co-authored with Alysia Roehrig, Bradley Cox, & Gloria Colvin. Article published in *Educational Researcher 47*(7). [https://doi.org/10.3102%2F0013189X18782974](http://journals.sagepub.com/stoken/default+domain/mNc7rK5rQWudaeq3vUqw/full)
 
+**Conference presentation  &#x007C; Can I use this? A framework for making copyright determinations in 21st-century libraries.** Leading Edge Libraries Conference, Orlando, FL. [My slides](https://docs.google.com/presentation/d/1gZB_VUc5pkW_5k3xnTomFKctpC1WzJ-Rh9tqEicNkcc/edit?usp=sharing)
+ 
+**Presentation  &#x007C; From OER to open pedagogy: An introduction to teaching and learning in the open.** Invited presentation at Florida Agricultural and Mechanical University’s 2018 Provost’s Digital Learning Initiative. [My slides](https://docs.google.com/presentation/d/1IN4_W8SL8oINqCkmzGz9JlNN8WXGF1Lt86-0Ur28lRs/edit?usp=sharing)
+
+**Presentation  &#x007C; Finding ancillary materials to support open textbook adoption.** Invited presentation at TCC Online’s OER Summer Institute. 
+[My slides](https://docs.google.com/presentation/d/1-NyXALb1vpqu3N21Vom2uj5ytnRM_gi0ozvI1_PXXoE/edit?usp=sharing)
+
 **Symposium &#x007C; Florida State University Open Education Symposium.**
 Led planning team for one-day symposium on OER and open pedagogy, featuring a keynote presentation by Dr. David Wiley, CAO of Lumen Learning. Secured funding, venue, and speakers; created event program and website; promoted event to faculty, staff, and students at FSU, local higher education institutions, and the broader OER community. [Symposium website](https://www.lib.fsu.edu/events/open-education-symposium), [recordings](https://www.lib.fsu.edu/events/open-education-symposium/livestream), and [OSF instance](https://osf.io/pcwfz/) with outputs and planning materials.
 
